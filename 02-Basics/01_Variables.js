@@ -8,6 +8,7 @@ console.log(fullName);
 console.log(courseName);
 console.log(loggedCount);
 console.log(isLoggedIn);
+console.log(paymentMode);
 
 paymentMode = "Credit Card";
 
